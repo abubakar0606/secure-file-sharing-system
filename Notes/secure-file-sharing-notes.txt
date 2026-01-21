@@ -1,0 +1,32 @@
+
+Secure File Sharing System
+
+
+
+
+1. Secure File Sharing
+
+Secure file sharing is the procedure of sharing files in a secure manner so that
+only authorized users can access them. It helps protect sensitive information
+from unauthorized access, data leaks, or interception during file transfer.
+
+2. End-to-End Encryption 
+
+End-to-End Encryption is the practice of encrypting a file before uploading it and
+can only be decrypted by the intended receiver. Even the cloud storage provider
+cannot read the file content because it remains encrypted during storage and transfer.
+
+3. Cloud Storage
+
+Cloud storage is utilized for storing files on remote servers instead of local computers.
+It offers scalability, availability, and secure remote access to files.
+Examples include AWS S3, Google Cloud Storage, and Azure Blob Storage.
+
+4. Signed URLs
+
+A signed URL is a temporary and secure link that gives access to a private file stored in the cloud. The link expires after a certain time, ensuring controlled and providing secure access to files without making the file public. Conclusion: Secure file sharing integrates encryption, cloud storage, and signed URLs to provide that files are shared in a safe manner and can only be accessed by authorized users.
+
+Conclusion:
+
+Secure file sharing integrates encryption, cloud storage, and signed URLs to provide
+that files are shared in a safe manner and can only be accessed by authorized users.
